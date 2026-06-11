@@ -2,7 +2,7 @@
 
 A deep learning system for automated multi-label classification of pulmonary diseases from chest X-ray images. Built using PyTorch with four CNN architectures benchmarked on a subset of the NIH ChestX-ray14 dataset, with Grad-CAM explainability and a full-stack React + Django web interface.
 
-> **Team:** Kirti Kour, Ghulam Qadir, Qurban Ali  
+> **Team:** Kirti Kour
 > **Platform:** Kaggle (NVIDIA Tesla T4 GPU)
 
 ---
